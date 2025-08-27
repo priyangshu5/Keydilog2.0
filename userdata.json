@@ -16,5 +16,11 @@
         "key": "priyangshu",
         "expirydate": "30-08-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "bd94002674e18b5b",
+        "key": "kashyap",
+        "expirydate": "30-08-2026",
+        "Allowoffline": false
     }
 ]
